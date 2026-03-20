@@ -13,7 +13,7 @@ title                    : "TEST"
 title_separator          : "-"
 name                     : &name "sungsikeom"
 description              : &description "Computational chemist"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : url : "https://sungsikeom.github.io"
+url                      : "https://sungsikeom.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository : "sungsikeom/sungsikeom.github.io"
 
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "H-k"
-  employer         : "Red Brick University"
+  employer         : "RBUㅁㄴㅇy"
   uri              : # URL
   email            : "sungsikeom@hanyang.ac.kr" 
 
