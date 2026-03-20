@@ -8,7 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "연구소 소개"
+  - title: "연구소소개"
     url: /연구소소개/
 
   - title: "연구센터소개"
