@@ -9,16 +9,16 @@
 
 main:
   - title: "연구소 소개"
-    url: /publications/
+    url: /a/
 
   - title: "연구 및 학술활동"
-    url: /talks/    
+    url: /b/    
 
   - title: "장비소개 및 이용"
-    url: /teaching/    
+    url: /c/    
     
   - title: "게시판"
-    url: /portfolio/
+    url: /d/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
