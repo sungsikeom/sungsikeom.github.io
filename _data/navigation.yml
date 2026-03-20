@@ -9,19 +9,19 @@
 
 main:
   - title: "연구소 소개"
-    url: /a/
+    url: /연구소소개/
 
-  - title: "연구 및 학술활동"
-    url: /b/    
+  - title: "연구센터소개"
+    url: /연구센터소개/    
 
-  - title: "장비소개 및 이용"
-    url: /c/    
+  - title: "구성원"
+    url: /구성원/    
     
-  - title: "게시판"
-    url: /d/
+  - title: "주요사업 및 성과"
+    url: /주요사업 및 성과/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "커뮤니티"
+    url: /커뮤니티/
     
 #  - title: "CV"
 #    url: /cv/
