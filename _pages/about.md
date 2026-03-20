@@ -1,4 +1,16 @@
----
+I am a computational chemist studying intramolecular singlet fission.
+
+My research focuses on:
+- conformational heterogeneity
+- electronic coupling
+- torsional dynamics
+
+Currently, I am working on PDPP systems to understand how structural flexibility affects multiexciton formation.
+
+
+
+
+"""---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -54,3 +66,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+"""
